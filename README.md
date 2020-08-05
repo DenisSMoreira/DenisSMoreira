@@ -7,7 +7,7 @@
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - ⚡ Adoro jogar mmorpg 
 
-### Connect with me:
+### Me encontra em:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][site]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][site]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][site]
