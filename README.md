@@ -1,4 +1,4 @@
-### Olár ! Me chamo Denis (vulgo Denão) e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia em [site] 👋
+### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia no meu linkedin [site] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia
 - 👯  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
