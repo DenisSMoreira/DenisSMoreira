@@ -1,4 +1,4 @@
-### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia no meu linkedin [site] 👋
+### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia no meu linkedin [linkedin] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia
 - 👯  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
@@ -52,6 +52,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
 
 [site]: https://www.linkedin.com/in/denissmoreira/
+[linkedin]: https://www.linkedin.com/in/denissmoreira/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/Denissoaresmoreira
 [instagram]: https://instagram.com/denissoaresmoreira
