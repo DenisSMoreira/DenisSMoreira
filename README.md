@@ -44,7 +44,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
 
-[site]: https://denissoaresmoreira.com
+[site]: https://www.linkedin.com/in/denissmoreira/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/Denissoaresmoreira
 [instagram]: https://instagram.com/denissoaresmoreira
