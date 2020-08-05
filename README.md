@@ -1,4 +1,4 @@
-### Olá ! Me chamo Denis e sou desenvolvedor a um tempo ( conhecido tb como Denão),  pode conhecer um pouco mais sobre minha historia em [site] 👋
+### Olár ! Me chamo Denis (vulgo Denão) e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia em [site] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia
 - 🔭 Estou atualmente trabalhando com minha impressora 3d !!
