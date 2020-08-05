@@ -1,10 +1,10 @@
 ### Olár ! Me chamo Denis (vulgo Denão) e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha historia em [site] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia
-- 👯 Trabalhando como Desenvolvedor Java a mais de 10 anos 
-- 🥅  Meta 2020:  Criar uma nova solução de mercado utilizando alguma I.A
-- 🔭 Estou atualmente brincando com minha impressora 3d !!
-- 🌱 E estou sempre buscando algo novo em tecnologia para me entreter 🤣
+- 👯  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
+- 🥅  Meta 2021:  Criar uma nova solução de mercado utilizando alguma I.A
+- 🔭  Estou atualmente brincando com minha impressora 3d !!
+- 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - ⚡ Adoro jogar mmorpg 
 
 ### Connect with me:
