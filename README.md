@@ -13,9 +13,8 @@
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Adoro jogar mmorpg 
 
----
 
-### 👨‍💻 Linguagens e ferramentas:
+## 👨‍💻 Linguagens e ferramentas:
 
 [<img align="left" alt="Java" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][site]
 [<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][site]
