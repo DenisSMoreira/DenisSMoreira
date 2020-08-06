@@ -42,13 +42,15 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][site]
 
-<img align="left" alt="DenisSMoreira Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
-
-
 ### 👀 Você pode me encontra aqui:
 <a><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |<a href="https://www.linkedin.com/in/sanchit-vijay-774432178">[<img align="left" alt="denissoaresmoreira.com.nbr" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][site][<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube][<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</a>
+
+<br />
+<br/>
+
+<img align="left" alt="DenisSMoreira Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
 
 
 ---
