@@ -6,7 +6,7 @@
 ### &nbsp; Olár ! Me chamo Denis e sou desenvolvedor à algum tempo e você pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="27px">
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
 - 🥅  Meta 2021:  Criar uma nova solução de mercado utilizando alguma I.A
 - 🔭  Estou atualmente brincando com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
