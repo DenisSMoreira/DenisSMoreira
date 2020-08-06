@@ -54,6 +54,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 |<a href="https://www.linkedin.com/in/sanchit-vijay-774432178">[<img align="left" alt="denissoaresmoreira.com.nbr" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][site][<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube][<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</a>
 
 
+
+
 ---
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DenisSMoreira.DenisSMoreira)
 
@@ -63,3 +65,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [youtube]: https://youtube.com/Denissoaresmoreira
 [instagram]: https://instagram.com/denissoaresmoreira
 [linkedin]: https://linkedin.com/in/denissmoreira
+
+<details align="center">
+  <summary> 
+    <b><samp> Quer saber como ganhar um milhão de reais? </samp></b>
+  </summary>
+  <samp>
+   <b><h2 style="color: #fc6203">E U &nbsp; T A M B E M &nbsp; Q U E R O! </h2></b>
+  </samp>
+</details>
