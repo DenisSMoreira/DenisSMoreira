@@ -51,11 +51,14 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][site]
 
-
-<br />
-<br />
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
+
+
+
+<br />
+<br />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DenisSMoreira.DenisSMoreira)
 
 [site]: https://www.linkedin.com/in/denissmoreira/
 [linkedin]: https://www.linkedin.com/in/denissmoreira/
@@ -65,6 +68,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [linkedin]: https://linkedin.com/in/denissmoreira
 
 
-<br />
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DenisSMoreira.DenisSMoreira)
+
+
