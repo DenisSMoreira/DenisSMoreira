@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### &nbsp; Olár ! Me chamo Denis e sou desenvolvedor à algum tempo e você pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
+### &nbsp; Olár ! Me chamo Denis sou desenvolvedor à algum tempo se quiser conhecer um pouco mais sobre minha jornada no acessa meu [linkedin] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="27px">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
