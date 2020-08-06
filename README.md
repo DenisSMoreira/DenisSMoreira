@@ -1,13 +1,19 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+
 ### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
 
-## Desenvolvedor, Gamer e Entusiasta em Tecnologia
+## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 - 👯  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
 - 🥅  Meta 2021:  Criar uma nova solução de mercado utilizando alguma I.A
 - 🔭  Estou atualmente brincando com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
-- ⚡ Adoro jogar mmorpg 
+- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Adoro jogar mmorpg 
 
-### Me encontra em:
+### 👀 Me encontra em:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][site]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -16,7 +22,7 @@
 
 <br />
 
-### Linguagens e ferramentas:
+### 👨‍💻 Linguagens e ferramentas:
 
 [<img align="left" alt="Java" width="38px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][site]
 [<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][site]
@@ -44,10 +50,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][site]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][site]
-<br />
-<br />
 
----
+
+<br />
+<br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
 
@@ -57,3 +63,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [youtube]: https://youtube.com/Denissoaresmoreira
 [instagram]: https://instagram.com/denissoaresmoreira
 [linkedin]: https://linkedin.com/in/denissmoreira
+
+
+<br />
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DenisSMoreira.DenisSMoreira)
