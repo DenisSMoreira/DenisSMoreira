@@ -4,14 +4,14 @@
 </p>
 
 
-### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo, pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
+### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo e você pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 - 👯  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
 - 🥅  Meta 2021:  Criar uma nova solução de mercado utilizando alguma I.A
 - 🔭  Estou atualmente brincando com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> Adoro jogar mmorpg 
+- ⭐️  Gosto de jogar MMORPG
 
 
 ## Linguagens e ferramentas 👨‍💻
@@ -71,6 +71,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     <b><samp> Quer saber como ganhar um milhão de reais? </samp></b>
   </summary>
   <samp>
-   <b><h2 style="color: #fc6203">E U &nbsp; T A M B E M &nbsp; Q U E R O! </h2></b>
+   <b><h2 style="color: #fc6203"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> E U &nbsp; T A M B E M &nbsp; Q U E R O! <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /></h2></b>
   </samp>
 </details>
