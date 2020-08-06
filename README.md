@@ -1,10 +1,9 @@
 <p align="center">
  <img align="center" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100px"'>
-
+ <h2 align="center">Profile</h2>
 </p>
 
-
-### Olár ! Me chamo Denis e sou desenvolvedor à algum tempo e você pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
+### &nbsp; Olár ! Me chamo Denis e sou desenvolvedor à algum tempo e você pode conhecer um pouco mais sobre minha jornada no meu [linkedin] 👋
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="27px">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como Desenvolvedor Backend Java a mais de 10 anos 
