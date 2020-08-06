@@ -51,16 +51,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |<a href="https://www.linkedin.com/in/sanchit-vijay-774432178">[<img align="left" alt="denissoaresmoreira.com.nbr" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][site][<img align="left" alt="YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube][<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</a>
 
+<img align="right" alt="DenisSMoreira Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
 <br />
 <br />
-
-
-
 ---
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DenisSMoreira.DenisSMoreira)
-
-<img align="left" alt="DenisSMoreira Github Stats" src="https://github-readme-stats.vercel.app/api?username=DenisSMoreira&show_icons=true&hide_border=true" />
-
 
 [site]: https://www.linkedin.com/in/denissmoreira/
 [linkedin]: https://www.linkedin.com/in/denissmoreira/
@@ -68,4 +64,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [youtube]: https://youtube.com/Denissoaresmoreira
 [instagram]: https://instagram.com/denissoaresmoreira
 [linkedin]: https://linkedin.com/in/denissmoreira
-
