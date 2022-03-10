@@ -7,7 +7,7 @@
 
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="27px">
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
-- 🥅  Meta para 2021: Criar uma nova solução de mercado utilizando alguma I.A
+- 🥅  Meta para 2022: Criar uma nova solução de mercado utilizando alguma I.A
 - 🔭  Estou atualmente brincando e me divertindo com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - ⭐️  Além de gostar muito de jogar MMORPG
