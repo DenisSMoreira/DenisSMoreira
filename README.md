@@ -12,7 +12,7 @@
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
-- ~~🥅  Meta para 2022: Criar uma nova solução de mercado utilizando alguma I.A~~ DONE
+- ~~🥅  Meta para 2022: Criar uma nova solução de mercado utilizando alguma I.A~~ DONE ;)
 - 🔭  Estou atualmente brincando e me divertindo com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - ⭐️  Além de gostar muito de jogar MMORPG
