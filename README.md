@@ -3,9 +3,14 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### &nbsp; Olár ! Me chamo Denis sou desenvolvedor à algum tempo se quiser conhecer um pouco mais sobre minha jornada acessa meu [linkedin] 👋
+### &nbsp; Olár ! Me chamo Denis sou desenvolvedor à algum tempo se quiser conhecer um pouco mais sobre minha jornada acessa meu linkedin e fique a vontade para entrar em contato via instagram :)
+<a href="https://linkedin.com/in/denissmoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/denissoaresmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  
+## Desenvolvedor, Gamer e Entusiasta em Tecnologia
 
-## Desenvolvedor, Gamer e Entusiasta em Tecnologia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="27px">
+
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
 - 🥅  Meta para 2022: Criar uma nova solução de mercado utilizando alguma I.A
 - 🔭  Estou atualmente brincando e me divertindo com minha impressora 3d !!
