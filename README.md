@@ -3,7 +3,7 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### &nbsp; Olár ! Me chamo Denis sou desenvolvedor à algum tempo se quiser conhecer um pouco mais sobre minha jornada acessa meu linkedin e fique a vontade para entrar em contato via instagram :)
+### &nbsp; Olá! Me chamo Denis, e tenho uma longa jornada como desenvolvedor. Se quiser saber mais sobre minha experiência, sinta-se à vontade para acessar meu LinkedIn e entrar em contato pelo Instagram! :)
 <a href="https://linkedin.com/in/denissmoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/denissoaresmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
@@ -12,7 +12,7 @@
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
-- ~~🥅  Meta para 2022: Criar uma nova solução de mercado utilizando alguma I.A~~ DONE ;)
+- 🥅  Meta realizada 2024: Concluir diversas soluções de mercado com Inteligência Artificial!
 - 🔭  Estou atualmente brincando e me divertindo com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
 - ⭐️  Além de gostar muito de jogar MMORPG
