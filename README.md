@@ -11,7 +11,7 @@
 ## Desenvolvedor, Gamer e Entusiasta em Tecnologia
 
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 9 anos 
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Trabalhando como desenvolvedor Java backend à mais de 14 anos 
 - 🥅  Meta realizada 2024: Concluir diversas soluções de mercado com Inteligência Artificial!
 - 🔭  Estou atualmente brincando e me divertindo com minha impressora 3d !!
 - 🌱  E estou sempre buscando algo novo em tecnologia para me entreter 🤣
