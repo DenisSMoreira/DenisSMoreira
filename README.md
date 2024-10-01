@@ -75,6 +75,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
     <b><samp> Quer saber como ganhar um milhão de reais? </samp></b>
   </summary>
   <samp>
-   <b><h2 style="color: #fc6203"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> E U &nbsp; T A M B E M &nbsp; Q U E R O! <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /></h2></b>
+   <b><h2 style="color: #fc6203"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> E U &nbsp; T A M B E M &nbsp; Q U E R O! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></b>
   </samp>
 </details>
